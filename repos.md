@@ -1,0 +1,15 @@
+https://github.com/charlax/professional-programming
+https://github.com/papers-we-love/papers-we-love
+https://github.com/bnb/awesome-developer-streams
+https://github.com/rossant/awesome-math
+https://github.com/codecrafters-io/build-your-own-x
+https://github.com/sachin-source/top-github-repositories-which-everyone-should-look
+https://github.com/Evavic44/portfolio-ideas
+https://github.com/ossu/math
+https://github.com/Alliedium/awesome-software-engineering
+https://github.com/codingknite/frontend-development
+https://github.com/jlevy/the-art-of-command-line
+https://github.com/mtdvio/every-programmer-should-know
+https://github.com/engineerapart/TheRemoteFreelancer
+https://github.com/trimstray/the-book-of-secret-knowledge
+https://github.com/lnishan/awesome-competitive-programming
