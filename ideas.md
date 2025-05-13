@@ -7,3 +7,6 @@ https://github.com/Atarity/deploy-your-own-saas
 https://github.com/Evavic44/portfolio-ideas
 https://github.com/labex-labs/practice-c-programming-projects
 https://github.com/Alliedium/awesome-software-engineering
+https://github.com/practical-tutorials/project-based-learning
+https://github.com/behnamazimi/practical-front-end-projects
+https://github.com/The-Cool-Coders/Project-Ideas-And-Resources

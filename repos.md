@@ -13,3 +13,5 @@ https://github.com/mtdvio/every-programmer-should-know
 https://github.com/engineerapart/TheRemoteFreelancer
 https://github.com/trimstray/the-book-of-secret-knowledge
 https://github.com/lnishan/awesome-competitive-programming
+https://github.com/mezod/awesome-indie
+https://github.com/hyunjun/bookmarks
